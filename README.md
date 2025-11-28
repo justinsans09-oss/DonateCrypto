@@ -12,14 +12,8 @@ A Dapp of voluntary campaign, you can create a new campaign with a goal, or make
 
 Deployed in Sepolia network.
 
-- DonateCrypto.sol
-Address: 0xcc46445101cCBeb56b7760C61ccA110b71A177c4
-
-https://sepolia.etherscan.io/address/0xcc46445101cCBeb56b7760C61ccA110b71A177c4#code
-- DonateCryptoAdapter.sol
-
-Address: 0xeceC29332180e3a3E9D4aBd9dc82C28A1c453e1f
-https://sepolia.etherscan.io/address/0xeceC29332180e3a3E9D4aBd9dc82C28A1c453e1f#code
+- Donate sol
+Address: 9WgDZaWP3Umtey38Qcq9P84kPvcrahXRVwnmK5ZX4jrN
 
 ## Author
 
